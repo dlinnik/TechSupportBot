@@ -2,5 +2,6 @@
   "token": "tg token",
   "chatId": 0,
   "systemMessages": true,
-  "loggingLevel": "INFO"
+  "loggingLevel": "INFO",
+  "proxy": "http://user:pass@host:port"
 }
